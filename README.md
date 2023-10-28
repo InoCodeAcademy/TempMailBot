@@ -1,8 +1,8 @@
 <h1 align="center"><b>✉️ Temp Mail Bot ✉️</b></h1>
 
-<h4 align="center">A Powerful, Smart And POwerful Temp Mail Bot. <br> Written with Pyrogram and Telethon...</h4>
+<h4 align="center">Smart And Powerful Temp Mail Bot. <br> Written with Pyrogram and python</h4>
 <p align='center'>
-  <p align="center"><a href="https://t.me/TeamSemmy"><img src="https://telegra.ph/file/e856a0bd435ee640ffed7.png"></a></p>
+  <p align="center"><a href="https://t.me/InoCodeAcademy"><img src="https://telegra.ph/file/f90b2d2c5ed213e6811ca.png"></a></p>
 
   # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -27,4 +27,10 @@
 
 # Credits ❤️
 
-### The Founder Of Emo Bot Developers, [RishBroProMax](https://rishbropromax.github.io/) 
+### The Founder Of InoCodeAcademy, [RishBroProMax](https://rishbropromax.github.io/) 
+<br>
+
+# Join Commiunity 🌈
+
+[`Ino Code Academy`](t.me/InoCodeAcademy)
+
